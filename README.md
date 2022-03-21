@@ -10,10 +10,10 @@
   LaTeX template for your outstanding job application
 </p>
 
-<!-- <div align="center">
-  <a href="https://www.paypal.me/posquit0">
+<div align="center">
+<!--   <a href="https://www.paypal.me/posquit0">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
-  </a>
+  </a> -->
   <a href="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml">
     <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
   </a>
@@ -23,10 +23,10 @@
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
+<!--   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
-  </a>
-</div> -->
+  </a> -->
+</div>
 
 <br />
 
@@ -35,7 +35,7 @@
 **Awesomer CV** is LaTeX template for a **CV(Curriculum Vitae)** or **Résumé** inspired by [Awsome-CV](https://github.com/posquit0/Awesome-CV). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 
-## Donate
+<!-- ## Donate
 
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
@@ -45,7 +45,7 @@ Please help keep this project alive! Donations are welcome and will go towards f
     ETH: 0x77ED9B4659F80205E9B9C9FB1E26EDB9904AFCC7
     QTUM: QZT7D6m3QtTTqp7s4ZWAwLtGDsoHMMaM8E
 
-*Thank you for your support!*
+*Thank you for your support!* -->
 
 ## Preview
 
